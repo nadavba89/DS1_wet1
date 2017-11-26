@@ -5,6 +5,6 @@
 #ifndef DS1_WET1_SPLAYTREE_H
 #define DS1_WET1_SPLAYTREE_H
 
-blah blah blah
+
 
 #endif //DS1_WET1_SPLAYTREE_H
